@@ -1,2 +1,2 @@
 # YOLOv3_TensorRT
-A project to faster YOLOv3.
+A project to create a faster YOLOv3.
